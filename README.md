@@ -1,9 +1,8 @@
-# Hi, I'm Bryan 👋🏻
+# Hi, I'm Ajinkya 👋🏻
 
-## **I'm a Udemy Instructor, an Author, and a Principal Consultant.**
-- 🗣 I've taught 30,000+ students on HashiCorp products, such as Terraform, Vault, Consul, Packer, and others.
-- 🚀 I also specialize in AWS, with over 10 years experience of AWS design and implementation
-- 📲 Reach out to me for Consultancy regarding AWS and HashiCorp.
+## **I'm a DevOps Engineer**
+- 🚀 I specialize in AWS and Azure with over 6 years experience of design and implementation
+- 📲 Reach out to me for Consultancy regarding AWS and Azure.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
 <br>
@@ -11,80 +10,8 @@
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="https://www.linkedin.com/in/btkrausen/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/btkrausen" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
-<a href="https://www.youtube.com/user/bryankrausen" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="100" height="100"/></a>
+<a href="www.linkedin.com/in/ajinkya-raorane-bb482a1b2"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
-<br>
-
-## **My Courses on Udemy and Discount Coupons**
-
-| No  | Course Link | Coupon Code | Valid Until |
-| --- | ----------- | ----------- | ----------- |
-| 1 | [Getting Started with HashiCorp Vault](https://btk.me/v) | MAY2023 | June 2, 2023 |
-| 2 | [Integrating HashiCorp Vault with AWS](https://btk.me/vaws) | MAY2023 | June 2, 2023 |
-| 3 | [HashiCorp Certified: Vault Operations Professional](https://btk.me/vp) | MAY2023 | June 2, 2023 |
-| 4 | [Mastering Terraform Cloud with Hands-On Labs](https://btk.me/tfc) | MAY2023 | June 2, 2023 |
-| 5 | [HashiCorp Certified: Terraform Associate Hands-On Lab Course](https://btk.me/tfhol) | MAY2023 | June 2, 2023 |
-| 6 | [HashiCorp Certified: Terraform Associate Practice Exam](https://btk.me/tf) | MAY2023 | June 2, 2023 |
-| 7 | [HashiCorp Certified: Vault Associate Practice Exam](https://btk.me/vpe) | MAY2023 | June 2, 2023 |
-| 8 | [HashiCorp Certified: Consul Associate Practice Exam](https://btk.me/cpe) | MAY2023 | June 2, 2023 |
-| 9 | [Getting Started with HashiCorp Consul](https://btk.me/c) | MAY2023 | June 2, 2023 |
-| 10 | [Building Automated Machine Images using HashiCorp Packer](https://btk.me/p) | MAY2023 | June 2, 2023 |
-| 11 | [HashiCorp Nomad Fundamentals: The Ultimate Beginner's Guide](https://btk.me/n) | MAY2023 | June 2, 2023 |
-
-<br>
-
-## **My Udemy Profile**
-- 👉🏻 [Udemy Profile for Bryan Krausen](https://www.udemy.com/user/bryan-krausen/ "Udemy Profile")
-
-<br>
-
-## **My Bookshelf**
-👇👇👇 Check out the books I've authored on emerging technologies 👇👇👇
-
-<a href="https://amzn.to/2UeUjAI"> <img align="center" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" /></a>
-<a href="https://amzn.to/3HAw4pF"> <img align="center" alt="" src="https://m.media-amazon.com/images/I/41MY0+EHAbL._SX331_BO1,204,203,200_.jpg" width="200" height="300" /></a>
-
-<br>
-
-### **Buy My Book on Amazon:**
-- 👉 [Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
-- 👉 [The Best-Kept Secrets of HashiCorp Vault](https://amzn.to/3HAw4pF)
-
-### **Buy My Books on Gumroad in PDF format**
-- 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
-- 👉 [The Best-Kept Secrets of HashiCorp Vault](https://btkrausen.gumroad.com/l/secretsofvault)
-<br>
-<br>
-
-<h2>Techology Stack and Experience 💻</h2>
-
-<p>
-  
-  <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
-  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=Vault&logoColor=black" width="80" height="30" />
-  <img alt="consul" src="https://img.shields.io/badge/Consul-E03875?style=for-the-badge&logo=Consul&logoColor=white" width="100" height="30" />
-  <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF" width="90" height="30" />
-  <img alt="nomad" src="https://img.shields.io/badge/nomad-%60DEA9.svg?style=for-the-badge&logo=nomad&logoColor=%2302A8EF" width="90" height="30" />
-  <img alt="Udemy" src="https://camo.githubusercontent.com/b10841c7e1a339e8bf38dfcecbc5c270fb66c4ee4b73abacd77f3505148ee481/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4131303046463f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465" width="100" height="30"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
-  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="80" height="30"/>
-  <img alt="s3" src="https://img.shields.io/badge/AmazonS3-%569A31.svg?style=flat-square&logo=amazons3&logoColor=white" width="110" height="30"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
-  <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="130" height="30"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="100" height="30"/>
-  <img alt="Red Hat" src="https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=redhat&logoColor=white" width="100" height="30"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
-  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
-  <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
-  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="80" height="30" />
-  <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
-  <img alt="Tesla" src="https://img.shields.io/badge/Tesla-C00?logo=tesla&logoColor=fff&style=for-the-badge" width="80" height="30" />
-  <img alt="Ubiquiti" src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" width="100" height="30" />
-</p>
 
 ##  **My Certifications 🏅**
 - [AWS Certified: Security Specialty](https://www.credly.com/badges/efa2379a-4007-40f9-9cef-00d98575d415)
