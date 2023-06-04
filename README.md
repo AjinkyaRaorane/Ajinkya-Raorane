@@ -10,7 +10,7 @@
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="www.linkedin.com/in/ajinkya-raorane-bb482a1b2"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/ajinkya-raorane-bb482a1b2"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 
 ##  **My Certifications 🏅**
